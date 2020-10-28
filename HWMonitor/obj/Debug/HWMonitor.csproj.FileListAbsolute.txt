@@ -1,0 +1,9 @@
+C:\Users\114horvath\source\repos\HWMonitor\HWMonitor\obj\Debug\HWMonitor.csprojAssemblyReference.cache
+C:\Users\114horvath\source\repos\HWMonitor\HWMonitor\bin\Debug\lib\OpenHardwareMonitorLib.dll
+C:\Users\114horvath\source\repos\HWMonitor\HWMonitor\bin\Debug\HWMonitor.exe.config
+C:\Users\114horvath\source\repos\HWMonitor\HWMonitor\bin\Debug\HWMonitor.exe
+C:\Users\114horvath\source\repos\HWMonitor\HWMonitor\bin\Debug\HWMonitor.pdb
+C:\Users\114horvath\source\repos\HWMonitor\HWMonitor\obj\Debug\HWMonitor.exe
+C:\Users\114horvath\source\repos\HWMonitor\HWMonitor\obj\Debug\HWMonitor.pdb
+C:\Users\114horvath\source\repos\HWMonitor\HWMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\114horvath\source\repos\HWMonitor\HWMonitor\obj\Debug\HWMonitor.csproj.CopyComplete
